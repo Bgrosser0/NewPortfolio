@@ -1,0 +1,12 @@
+.card {
+    padding: 30px;
+    width: 80%;
+    height: 800px;
+    margin: auto;
+    background-color: black;
+    opacity: .8;
+}
+
+.AboutMeBox {
+    padding: 30px;
+}

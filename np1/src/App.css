@@ -26,3 +26,69 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #0B486B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F56217, #0B486B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F56217, #0B486B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.avatar-img {
+  height: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.banner {
+  background-color: black;
+  width: 70%;
+  height: 310px;
+  border-radius: 10px;
+  margin: auto;
+  opacity: .8;
+  box-shadow: 6px 6px  rgba(0, 0, 0, 0.151);
+}
+
+.banner h1 {
+  color: white;
+  font-size: 70px;
+  opacity: .8;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.banner h2 {
+  color: white;
+  opacity: .8;
+  font-size: 50px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.banner hr {
+  width: 55%;
+  margin: auto;
+  border-top-color: white;
+}
+
+.banner p {
+  color: white;
+  margin-top: 10px;
+  font-size: 22px;
+}
+
+.social-links i {
+  color: white;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  margin: auto;
+  padding: 10px;
+}
