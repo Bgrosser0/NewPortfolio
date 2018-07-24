@@ -1,12 +1,31 @@
 .card {
-    padding: 30px;
+    /* padding: 30px; */
     width: 80%;
-    height: 800px;
+    height: 60%;
     margin: auto;
     background-color: black;
     opacity: .8;
 }
 
+.card p {
+    color: white;
+    font-size: 18px;
+}
+
+.card h1 {
+    color: white;
+    padding-top: 10px;
+}
+
+.card-body {
+    margin: auto;
+}
+
 .AboutMeBox {
-    padding: 30px;
+    padding-top: 80px;
+    margin: auto;
+}
+
+.introText {
+    padding-top: 10px;
 }
