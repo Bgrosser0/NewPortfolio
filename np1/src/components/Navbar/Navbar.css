@@ -1,0 +1,26 @@
+nav.navbar.navbar-default {
+    margin-bottom: 0;
+
+  }
+
+.navbar {
+    background: black;
+    /* opacity: .8; */
+    width: 100%;
+}
+
+.nav-link {
+    color: white;
+    
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.App-title {
+    text-align: center;
+}
+
+
+
