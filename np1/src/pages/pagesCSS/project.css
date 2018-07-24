@@ -1,0 +1,21 @@
+.FEcard {
+    height: 30%;
+    background-color: black;
+    width: 40%;
+    margin: auto;
+}
+
+.FEcard h2 {
+    color: white;
+}
+
+.BEcard {
+    height: 30%;
+    background-color: black;
+    width: 40%;
+    margin: auto;
+}
+
+.BEcard h2 {
+    color: white;
+}
