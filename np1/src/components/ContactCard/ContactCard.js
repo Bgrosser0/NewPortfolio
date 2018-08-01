@@ -6,27 +6,51 @@ import Col from "../Grid/Col";
 import Container from "../Grid/Container";
 
 const ContactCard = props => (
-  <div className="card">
+  <div className="card" id="contactCard">
     <div className="card-body">
-        <Container>
+     
           <Row>
-            <Col size="md-4">
-            <img
-    className="avatar-img"
-    src="https://www.shareicon.net/data/512x512/2015/09/18/103160_man_512x512.png"
-    alt="avatar"
-    />
-            </Col>
-            <Col size="md-8">
+            <Col size="md-12">
             <h1>
               Contact Me
             </h1>
-            <p className="introText">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies consequat auctor. Donec convallis ornare egestas. Quisque placerat, augue pulvinar tristique tristique, purus nulla dignissim est, mollis mollis nisi lorem ut magna. Praesent efficitur pretium nunc vitae eleifend. Sed pharetra metus imperdiet, fringilla mi sed, maximus quam. Praesent nisi lectus, cursus id tincidunt sit amet, dictum vestibulum enim. Integer pharetra pellentesque nulla, malesuada feugiat lacus semper et. Nam egestas gravida eros et volutpat. Nunc laoreet convallis sagittis. Praesent sit amet arcu sed quam viverra dapibus. Phasellus pharetra nisl et faucibus tempus. Integer nec orci a velit dictum fringilla. Sed viverra feugiat elit congue egestas. Nunc non libero nisl.
-            </p>
-            </Col>    
+            
+            </Col>
           </Row>
-        </Container>
+
+          <Row>
+          <Col size="md-6">
+          <p>
+            Phone: 612-709-4778
+          </p>
+          <p>
+            Email: Bgrosser00@gmail.com
+          </p>
+          <p>
+            Location: Minneapolis, Minnesota
+          </p>
+          </Col>
+    <Col size="md-6">
+    <form>
+  <div className="form-group">
+    <label for="exampleInputEmail1">Name</label>
+    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name"></input>
+  </div>
+  <div className="form-group">
+    <label for="exampleInputEmail1">Email address</label>
+    <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"></input>
+  </div>
+  <div className="form-group">
+    <label for="exampleFormControlTextarea1">Message</label>
+    <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
+  <button type="submit" className="btn btn-primary">Submit</button>
+  
+</form>
+</Col>
+  </Row>
+
+
     </div>
   </div>
 );
