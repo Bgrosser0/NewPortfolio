@@ -1,4 +1,7 @@
 import React from "react";
+import Row from "../components/Grid/Row";
+import Col from "../components/Grid/Col";
+import Container from "../components/Grid/Container";
 
 const LandingPage = () => (
 
@@ -12,8 +15,10 @@ const LandingPage = () => (
     alt="avatar"
     />
 
+
         {/* Main info Container */}
         <div className="banner">
+          
             <h1>
             Ben Grosser
             </h1>
