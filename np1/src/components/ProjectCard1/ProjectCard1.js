@@ -23,7 +23,7 @@ const ProjectCard1 = props => (
               Hoook.me
             </h1>
             <p className="introText">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies consequat auctor. Donec convallis ornare egestas. Quisque placerat, augue pulvinar tristique tristique, purus nulla dignissim est, mollis mollis nisi lorem ut magna. Praesent efficitur pretium nunc vitae eleifend. Sed pharetra metus imperdiet, fringilla mi sed, maximus quam. Praesent nisi lectus, cursus id tincidunt sit amet, dictum vestibulum enim. Integer pharetra pellentesque nulla, malesuada feugiat lacus semper et. Nam egestas gravida eros et volutpat. Nunc laoreet convallis sagittis. Praesent sit amet arcu sed quam viverra dapibus. Phasellus pharetra nisl et faucibus tempus. Integer nec orci a velit dictum fringilla. Sed viverra feugiat elit congue egestas. Nunc non libero nisl.
+            A web app that allows users to send “hook” requests to other users with media like video games, books, TV shows and movies.  The receiver of the “hook” then has a list with links and information on the media sent to them, which they can remove from their list after consuming that media.           
             </p>
             </Col>    
           </Row>
