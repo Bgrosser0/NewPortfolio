@@ -2,3 +2,37 @@
     width: 80%;
     height: 80%;
 }
+
+.ContactInfo {
+    width: 100%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.ContactForm {
+    width: 100%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#contactCardBody {
+    width: 100%;
+}
+
+#NameForm {
+    width: 80%;
+}
+
+#EmailForm {
+    width: 80%;
+}
+
+.ContactInfo p {
+    font-size: 38px;
+}
+
+.FormLable {
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

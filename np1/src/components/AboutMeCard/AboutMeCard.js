@@ -22,7 +22,7 @@ const AboutMeCard = props => (
               About Me
             </h1>
             <p className="introText">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultricies consequat auctor. Donec convallis ornare egestas. Quisque placerat, augue pulvinar tristique tristique, purus nulla dignissim est, mollis mollis nisi lorem ut magna. Praesent efficitur pretium nunc vitae eleifend. Sed pharetra metus imperdiet, fringilla mi sed, maximus quam. Praesent nisi lectus, cursus id tincidunt sit amet, dictum vestibulum enim. Integer pharetra pellentesque nulla, malesuada feugiat lacus semper et. Nam egestas gravida eros et volutpat. Nunc laoreet convallis sagittis. Praesent sit amet arcu sed quam viverra dapibus. Phasellus pharetra nisl et faucibus tempus. Integer nec orci a velit dictum fringilla. Sed viverra feugiat elit congue egestas. Nunc non libero nisl.
+            Web developer able to build a sophisticated website with full database backend all the way from mockup to rollout. Adept at working with diverse teams to implement projects. A quick study on new technologies.
             </p>
             </Col>    
           </Row>
