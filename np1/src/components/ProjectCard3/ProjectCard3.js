@@ -23,7 +23,7 @@ const ProjectCard3 = props => (
               Liri
             </h1>
             <p className="introText">
-            Command line node app to return tweets, song information or movie information.             </p>
+            A Command line node app that uses APIs to return tweets, song information or movie information.</p>
             </Col>    
           </Row>
           <Row>

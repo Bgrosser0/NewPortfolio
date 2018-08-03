@@ -22,7 +22,7 @@ const AboutMeCard = props => (
               About Me
             </h1>
             <p className="introText">
-            Web developer able to build a sophisticated website with full database backend all the way from mockup to rollout. Adept at working with diverse teams to implement projects. A quick study on new technologies.
+            I am a full stack developer currently located in Minneapolis, Minnesota.  After getting a degree in music composition I became interested in programming to further my skills as a music producer and fell in love with coding.  Through a Trilogy coding bootcamp at the University of Minnesota I developed an interest and respect for front end and back end development and continue to develop my skills as a programmer on my own.  I am constantly inspired and motivated by new challenges and the pursuit of personal growth and education and have found programming to be the perfect niche to drive myself as an individual to persue higher levels of understanding in this constantly growing and changing field. 
             </p>
             </Col>    
           </Row>
