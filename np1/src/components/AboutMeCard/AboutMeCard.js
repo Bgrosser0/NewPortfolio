@@ -22,7 +22,7 @@ const AboutMeCard = props => (
               About Me
             </h1>
             <p className="introText">
-            I am a full stack developer currently located in Minneapolis, Minnesota.  After getting a degree in music composition I became interested in programming to further my skills as a music producer and fell in love with coding.  Through a Trilogy coding bootcamp at the University of Minnesota I developed an interest and respect for front end and back end development and continue to develop my skills as a programmer on my own.  I am constantly inspired and motivated by new challenges and the pursuit of personal growth and education and have found programming to be the perfect niche to drive myself as an individual to persue higher levels of understanding in this constantly growing and changing field. 
+            My name is Ben Grosser.  I am a full stack developer currently located in Minneapolis, Minnesota.  After getting a degree in music composition I became interested in programming to further my skills as a music producer and fell in love with coding through a coding bootcamp at the University of Minnesota. I developed an interest and respect for front-end and back-end development and have continued to develop my skills as a programmer through self-education.  I am motivated by new challenges and the pursuit of personal growth. 
             </p>
             </Col>    
           </Row>
