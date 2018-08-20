@@ -22,6 +22,9 @@ const ContactCard = props => (
           <Col size="md-12">
           <div className="ContactInfo">
           <p>
+          <i class="fab fa-linkedin-in"></i> LinkedIn: <a href="https://www.linkedin.com/in/benjamin-grosser-2aa313157/" target="_blank">Ben Grosser</a>
+          </p>
+          <p>
           <i class="fas fa-phone"></i> Phone: 612-709-4778
           </p>
           <p>
@@ -30,6 +33,7 @@ const ContactCard = props => (
           <p>
           <i class="fas fa-map-marker-alt"></i>  Location: Minneapolis, Minnesota
           </p>
+      
           </div>
           </Col>
     {/* <Col size="md-6">
