@@ -11,20 +11,25 @@ const ProjectCard1 = props => (
     <div className="card-body">
         <Container>
           <Row>
-            <Col size="md-6">
+            <Col size="md-12">
+            <div id="hook-pic-hold">
             <img
     className="avatar-img"
     src={HoookCap}
     alt="avatar"
+    id="hookPic"
     />
+            </div>
             </Col>
-            <Col size="md-6">
+            <Col size="md-12">
+            <div id="hook-info-hold">
             <h1>
               Hoook.me
             </h1>
             <p className="introText">
             A web app that allows users to send “hook” requests to other users with media like video games, books, TV shows and movies.  The receiver of the “hook” then has a list with links and information on the media sent to them, which they can remove from their list after consuming that media.           
             </p>
+            </div>
             </Col>    
           </Row>
           <Row>

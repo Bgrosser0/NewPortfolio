@@ -1,3 +1,7 @@
 .LiriButton {
     float: left;
 }
+
+#liri-card-cont {
+    padding-bottom: 53px;
+}
