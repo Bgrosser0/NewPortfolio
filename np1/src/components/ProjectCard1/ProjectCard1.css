@@ -2,3 +2,11 @@
     margin: auto;
 }
 
+#hook-pic-hold {
+    width: 100%;
+}
+
+#hook-info-hold {
+    width: 100%;
+    position: relative;
+}

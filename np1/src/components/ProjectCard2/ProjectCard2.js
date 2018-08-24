@@ -11,23 +11,23 @@ const ProjectCard2 = props => (
     <div className="card-body">
         <Container>
           <Row>
-            <Col size="md-6">
+            <Col size="md-12">
             <img
     className="avatar-img"
     src={TrollCapture}
     alt="avatar"
     />
             </Col>
-            <Col size="md-6">
+            <Col size="md-12">
+            <div id="troll-cont">
             <h1>
               The Troll's Toll
             </h1>
             <p className="introText">
             	A choose your own adventure game, the player moves through a story making choices that lead to branching paths with different story content and endings.
             </p>
-            <p>
-            	Developed using HandleBars, JavaScript, Express, MySQL and Sequelize.
-            </p>
+          
+            </div>
             </Col>    
           </Row>
           <Row>
