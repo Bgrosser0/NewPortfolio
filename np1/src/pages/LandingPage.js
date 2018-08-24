@@ -2,6 +2,7 @@ import React from "react";
 import Row from "../components/Grid/Row";
 import Col from "../components/Grid/Col";
 import Container from "../components/Grid/Container";
+import CSS from "./pagesCSS/LandingPage.css";
 
 const LandingPage = () => (
 
@@ -9,15 +10,18 @@ const LandingPage = () => (
 <div>
 
     {/* Profile Image */}
-    <img
-    className="avatar-img"
-    src="https://www.shareicon.net/data/512x512/2015/09/18/103160_man_512x512.png"
-    alt="avatar"
-    />
+
 
 
         {/* Main info Container */}
         <div className="banner">
+
+            <img
+    className="avatar-img"
+    src="https://farm2.staticflickr.com/1894/30375496158_6ec7d6cbc4_m.jpg"
+    alt="avatar"
+    id="profile-pic"
+    />
           
             <h1>
             Ben Grosser
