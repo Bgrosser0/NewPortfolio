@@ -29,3 +29,17 @@
 .introText {
     padding-top: 10px;
 }
+
+#abtPic {
+    border-radius: 10%;
+}
+
+#pic-hold {
+    width: 100%;
+    padding-right: 10px;
+}
+
+#content-hold {
+    width: 100%;
+    padding-left: 30px;
+}
